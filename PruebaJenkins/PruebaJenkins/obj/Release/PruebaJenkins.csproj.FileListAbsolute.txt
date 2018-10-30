@@ -1,0 +1,8 @@
+C:\Users\mhinojosa\Documents\Visual Studio 2017\Projects\PruebaJenkins\PruebaJenkins\bin\PruebaJenkins.dll.config
+C:\Users\mhinojosa\Documents\Visual Studio 2017\Projects\PruebaJenkins\PruebaJenkins\bin\PruebaJenkins.dll
+C:\Users\mhinojosa\Documents\Visual Studio 2017\Projects\PruebaJenkins\PruebaJenkins\bin\PruebaJenkins.pdb
+C:\Users\mhinojosa\Documents\Visual Studio 2017\Projects\PruebaJenkins\PruebaJenkins\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mhinojosa\Documents\Visual Studio 2017\Projects\PruebaJenkins\PruebaJenkins\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mhinojosa\Documents\Visual Studio 2017\Projects\PruebaJenkins\PruebaJenkins\obj\Release\PruebaJenkins.csproj.CoreCompileInputs.cache
+C:\Users\mhinojosa\Documents\Visual Studio 2017\Projects\PruebaJenkins\PruebaJenkins\obj\Release\PruebaJenkins.dll
+C:\Users\mhinojosa\Documents\Visual Studio 2017\Projects\PruebaJenkins\PruebaJenkins\obj\Release\PruebaJenkins.pdb
