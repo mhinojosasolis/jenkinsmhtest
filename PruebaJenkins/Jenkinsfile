@@ -34,7 +34,7 @@ pipeline {
                 bat 'if exist "D:\\deploy\\HCM\\temp" RMDIR /Q /S "D:\\deploy\\HCM\\temp"'
                 bat 'if exist "D:\\deploy\\HCM\\logs" RMDIR /Q /S "D:\\deploy\\HCM\\logs"'
                 bat 'if exist "D:\\deploy\\HCM\\*.config" DEL /Q "D:\\deploy\\HCM\\*.config"'
-            }
+            }....===>
         }
     }
 }
